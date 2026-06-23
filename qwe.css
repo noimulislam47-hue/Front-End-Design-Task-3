@@ -1,0 +1,22 @@
+.navbar-brand img {
+    width: 70px;
+}
+
+.navbar-nav {
+
+    font-size: 50px;
+    margin-left: 300px
+}
+
+.nav-item {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.icon {
+    font-size: 50px;
+}
+
+.nav-link:hover {
+    background-color: black;
+}
